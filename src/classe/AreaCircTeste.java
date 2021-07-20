@@ -1,7 +1,5 @@
 package classe;
 
-import java.awt.geom.Area;
-
 public class AreaCircTeste {
     public static void main(String[] args) {
 

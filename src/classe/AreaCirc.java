@@ -1,7 +1,5 @@
 package classe;
 
-import java.awt.geom.Area;
-
 public class AreaCirc {
 
     double raio;

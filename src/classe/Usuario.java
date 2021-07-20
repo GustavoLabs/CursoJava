@@ -1,7 +1,5 @@
 package classe;
 
-import java.util.Objects;
-
 public class Usuario {
     String nome;
     String email;

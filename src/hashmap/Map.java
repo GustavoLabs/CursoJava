@@ -1,6 +1,5 @@
 package hashmap;
 
-import java.util.Arrays;
 import java.util.Objects;
 
 public class Map<K, V> {
