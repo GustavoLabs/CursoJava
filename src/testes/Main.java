@@ -1,5 +1,6 @@
 package testes;
 
+import java.io.File;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Iterator;
@@ -31,7 +32,6 @@ public class Main {
                 System.out.println(i + is.next());
             }
         }
-
 
     }
 }
